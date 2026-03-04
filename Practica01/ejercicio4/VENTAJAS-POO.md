@@ -6,8 +6,8 @@ Ventajas de usar Programación Orientada a Objetos
 
  3️. Reutilización de código: Las clases pueden reutilizarse en otros programas sin necesidad de volver a escribirlas.
  
- 4️. Facilita el mantenimiento: Si se necesita modificar algo, se puede cambiar solo en una clase sin afectar todo el programa.
+ 4. Facilita el mantenimiento: Si se necesita modificar algo, se puede cambiar solo en una clase sin afectar todo el programa.
  
- 5️. Modela situaciones reales: Permite representar objetos del mundo real (por ejemplo: Cronómetro, Estadística, Ecuación).
+ 5. Modela situaciones reales: Permite representar objetos del mundo real (por ejemplo: Cronómetro, Estadística, Ecuación).
  
  6️. Mayor escalabilidad: Es más fácil agregar nuevas funcionalidades sin desordenar el programa.
